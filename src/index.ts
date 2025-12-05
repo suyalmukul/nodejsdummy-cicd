@@ -19,7 +19,7 @@ const quotes = [
   "Success is not final; failure is not fatal.",
   "Dream big and dare to fail.",
   "The harder you work, the luckier you get.",
-  "Don't watch the clock; do what it does — keep going."
+  "Don't watch the clock; do what it does — keep goingggggggggggg."
 ];
 
 app.get("/random-quote", (req, res) => {
